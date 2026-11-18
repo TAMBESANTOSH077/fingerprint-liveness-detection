@@ -11,6 +11,8 @@ AI-powered fingerprint liveness detection using MobileNetV3 and PyTorch.
 - FastAPI REST API
 - Docker Support
 
+
+
 ## Tech Stack
 - Python
 - PyTorch
